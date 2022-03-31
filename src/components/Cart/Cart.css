@@ -1,5 +1,7 @@
 .cart-summary {
     background-color: #ffe0b3;
+}
+.cart {
     position: sticky;
     top: 0;
 }
